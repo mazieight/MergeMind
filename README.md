@@ -2,6 +2,10 @@
 
 The first foundation slice of the hackathon coordination platform described in AGENTS.md.
 
+## License
+
+Original MergeMind code is copyright (c) 2026 Saad Lamaizi and licensed under the [MIT License](LICENSE). Third-party components and assets retain their own licenses and attribution requirements. See [third-party notices](THIRD_PARTY_NOTICES.md).
+
 ## Run locally
 
 Requires Node.js 24+ and npm.
